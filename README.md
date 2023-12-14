@@ -39,7 +39,7 @@ The script follows the following rules to generate usernames:
 - `{fn}`: Represents the full first name.
 - `{ln}`: Represents the full last name.
 - `{fi}`: Represents the first name's initial.
-= `{li}`: Represents the last name's initial.
+- `{li}`: Represents the last name's initial.
 
 Feel free to customize the script or add new rules according to your preferences.
 
